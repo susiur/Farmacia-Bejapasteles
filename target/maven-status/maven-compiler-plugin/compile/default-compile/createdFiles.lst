@@ -1,0 +1,16 @@
+com/proyecto/farmacia/dao/IProductoDAO.class
+com/proyecto/farmacia/FarmaciaApplication.class
+com/proyecto/farmacia/dao/IClienteDAO.class
+com/proyecto/farmacia/services/CompraService.class
+com/proyecto/farmacia/services/iProductoService.class
+com/proyecto/farmacia/modelentity/Compra.class
+com/proyecto/farmacia/controllers/ClienteController.class
+com/proyecto/farmacia/modelentity/Producto.class
+com/proyecto/farmacia/dao/ICompraDAO.class
+com/proyecto/farmacia/controllers/CompraController.class
+com/proyecto/farmacia/services/iClienteService.class
+com/proyecto/farmacia/services/iCompraService.class
+com/proyecto/farmacia/services/ProductoService.class
+com/proyecto/farmacia/modelentity/Cliente.class
+com/proyecto/farmacia/services/ClienteService.class
+com/proyecto/farmacia/controllers/ProductoController.class
